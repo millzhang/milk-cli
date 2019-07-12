@@ -1,0 +1,14 @@
+{
+  "tpl": {
+    "vue_admin": {
+      "url": "https://github.com:millzhang/vue_admin_template#master",
+      "branch": "master",
+      "desc":"vue admin template (vue + typescipt + jsx)"
+    },
+    "react_admin": {
+      "url": "https://github.com:millzhang/react-admin-master#master",
+      "branch": "master",
+      "desc": "react admin template (react)"
+    }
+  }
+}
